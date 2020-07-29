@@ -1,0 +1,5 @@
+Use the config to set the hour,minute,osc string and the value. Use ip_config to set port and IP. Default port is 7000. You can run in locally (192.168.0.1 for example) or you can run it from a different PC on the same network (in which case you need the IP assigned to the resolume computer). 
+
+I have a .exe exported ready to run, however its too large to upload so if you need it email me and I will send over a Google Drive link.
+
+For questions- lvladimirov032@gmail.com
